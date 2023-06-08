@@ -1,0 +1,8 @@
+* pesudo classes work on state of the html element
+* it work with ':'
+* pesudo like hover,visited,checked
+
+*  Pseudo-elements are used to style parts of an
+ element or to insert content before or after an
+  element without needing to add extra HTML markup.
+like before and after
